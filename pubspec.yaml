@@ -2,7 +2,7 @@ name: any_link_preview
 description: Dart package that helps with preview of any links.
   Fully customizable and has the ability to render from cached data.
   Useful for apps where we had chat feature.
-version: 3.0.3
+version: 3.0.4
 # author: Suresh Konakanchi
 homepage: https://suresh-konakanchi.in/
 repository: https://github.com/sur950/any_link_preview
